@@ -72,3 +72,9 @@ Nice work! You've just pushed a commit to a remote repository. Now just a couple
 ## Using GitHub
 
 GitHub helps us use git with a nice visual interface as well as adding a few handy features. Once you have pushed your branch to GitHub, you will need to create a `Pull Request` that will be reviewed by a TA. It is easy - just follow along with these pictures:
+
+### Create a pull request
+![Create a PR](https://raw.githubusercontent.com/byu-is-403/byu-is-403.github.io/master/instructional-assets/0-up-and-running/create_pr.png)
+
+### Submit your pull request
+![Submit a PR](https://raw.githubusercontent.com/byu-is-403/byu-is-403.github.io/master/instructional-assets/0-up-and-running/submit_pr.png)
