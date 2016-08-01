@@ -45,7 +45,7 @@ Run the following to add the file:
 
 `git add lastname_firstname.txt`
 
-:key: - `git add .` is a shortcut to add all your changes at once.
+> :key: - `git add .` is a shortcut to add all your changes at once.
 
 ### Step 5 - Commit your changes
 
@@ -63,7 +63,7 @@ Finally, you will _push_ your changes to GitHub with the following command, repl
 
 So, to follow the previous example, I might run `git push origin mocklera`.
 
-:key: - Forgot your branch name? No worries! `git status` is a command that will list all kinds of information about what you are currently doing. The first line of output should say something like `On branch [branch_name]`.
+> :key: - Forgot your branch name? No worries! `git status` is a command that will list all kinds of information about what you are currently doing. The first line of output should say something like `On branch [branch_name]`.
 
 ### :tada: You did it! :tada:
 
